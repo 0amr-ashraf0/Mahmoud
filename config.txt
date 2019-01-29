@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=!
-game=Break | !play
+owner=499963699553894429
+prefix=*
+game=*help | #Kings
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTM5ODI4NzY1MjUwMDI3NTIx.DzIClg.GkdObJiR8sI9z4nKIVPDYsklETg
