@@ -1,6 +1,7 @@
+token=NTQzMDQ4MTc0ODk4Nzc0MDE2.Dz28iA.Eh4q0Ut_fH6oZ7J9_L1nRaIcJfc
 owner=484869429327560704
-prefix=1
-game=Type "1help" | Frozen Music 🎶
+prefix=^
+game=Type "^help" | Neon Music 🎶
 stayinchannel=true
 songinstatus=false
-token=NTQzMDQ4MTc0ODk4Nzc0MDE2.Dz28iA.Eh4q0Ut_fH6oZ7J9_L1nRaIcJfc
+
