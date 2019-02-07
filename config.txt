@@ -1,6 +1,6 @@
-owner=499963699553894429
-prefix=*
-game=*help | #Kings
+owner=484869429327560704
+prefix=1
+game=Type "1help" | Frozen Music 🎶
 stayinchannel=true
 songinstatus=false
-token=NTM5ODI4NzY1MjUwMDI3NTIx.DzIClg.GkdObJiR8sI9z4nKIVPDYsklETg
+token=NTQzMDQ4MTc0ODk4Nzc0MDE2.Dz28iA.Eh4q0Ut_fH6oZ7J9_L1nRaIcJfc
